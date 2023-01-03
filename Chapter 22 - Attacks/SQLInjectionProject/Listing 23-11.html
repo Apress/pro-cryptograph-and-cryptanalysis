@@ -1,0 +1,17 @@
+<div
+     id="theDataToBeInjected"
+     data-untrustedinput="&lt;&quot;testing123&quot;&gt;" />
+
+   <script>
+     var theDataToBeInjected = document.getElementById("theDataToBeInjected");
+
+     var clientWithUntrustedInput =
+         theDataToBeInjected.getAttribute("data-untrustedinput");
+
+     var clientWithUntrustedInputHtml5 =
+         theDataToBeInjected.dataset.untrustedinput;
+
+     document.write(clientSideUntrustedInputOldStyle);
+     document.write("<br />")
+     document.write(clientWithUntrustedInputHtml5);
+   </script>

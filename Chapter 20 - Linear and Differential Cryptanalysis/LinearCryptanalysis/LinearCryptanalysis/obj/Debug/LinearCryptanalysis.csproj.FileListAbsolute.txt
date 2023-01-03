@@ -1,0 +1,7 @@
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\LinearCryptanalysis\LinearCryptanalysis\obj\Debug\LinearCryptanalysis.csprojAssemblyReference.cache
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\LinearCryptanalysis\LinearCryptanalysis\obj\Debug\LinearCryptanalysis.csproj.CoreCompileInputs.cache
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\LinearCryptanalysis\LinearCryptanalysis\bin\Debug\LinearCryptanalysis.exe.config
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\LinearCryptanalysis\LinearCryptanalysis\bin\Debug\LinearCryptanalysis.exe
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\LinearCryptanalysis\LinearCryptanalysis\bin\Debug\LinearCryptanalysis.pdb
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\LinearCryptanalysis\LinearCryptanalysis\obj\Debug\LinearCryptanalysis.exe
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\LinearCryptanalysis\LinearCryptanalysis\obj\Debug\LinearCryptanalysis.pdb

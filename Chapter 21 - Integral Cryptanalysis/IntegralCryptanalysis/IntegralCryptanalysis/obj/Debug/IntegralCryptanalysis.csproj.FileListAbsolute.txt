@@ -1,0 +1,14 @@
+D:\Apps C#\Chapter 22 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\obj\Debug\IntegralCryptanalysis.csprojAssemblyReference.cache
+D:\Apps C#\Chapter 22 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\obj\Debug\IntegralCryptanalysis.csproj.CoreCompileInputs.cache
+D:\Apps C#\Chapter 22 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\bin\Debug\IntegralCryptanalysis.exe.config
+D:\Apps C#\Chapter 22 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\bin\Debug\IntegralCryptanalysis.exe
+D:\Apps C#\Chapter 22 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\bin\Debug\IntegralCryptanalysis.pdb
+D:\Apps C#\Chapter 22 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\obj\Debug\IntegralCryptanalysis.exe
+D:\Apps C#\Chapter 22 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\obj\Debug\IntegralCryptanalysis.pdb
+D:\Apps C#\Chapter 21 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\bin\Debug\IntegralCryptanalysis.exe.config
+D:\Apps C#\Chapter 21 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\bin\Debug\IntegralCryptanalysis.exe
+D:\Apps C#\Chapter 21 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\bin\Debug\IntegralCryptanalysis.pdb
+D:\Apps C#\Chapter 21 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\obj\Debug\IntegralCryptanalysis.csprojAssemblyReference.cache
+D:\Apps C#\Chapter 21 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\obj\Debug\IntegralCryptanalysis.csproj.CoreCompileInputs.cache
+D:\Apps C#\Chapter 21 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\obj\Debug\IntegralCryptanalysis.exe
+D:\Apps C#\Chapter 21 - Integral Cryptanalysis\IntegralCryptanalysis\IntegralCryptanalysis\obj\Debug\IntegralCryptanalysis.pdb

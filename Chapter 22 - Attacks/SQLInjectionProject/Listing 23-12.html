@@ -1,0 +1,10 @@
+@using System.Text.Encodings.Web;
+   @inject JavaScriptEncoder encoder;
+
+   @{
+       var someUntrustedInput = "<\"testing123\">";
+   }
+
+   <script>
+       document.write("@encoder.Encode(someUntrustedInput)");
+   </script>

@@ -1,0 +1,7 @@
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\DifferentialCryptanalysis\DifferentialCryptanalysis\obj\Debug\DifferentialCryptanalysis.csprojAssemblyReference.cache
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\DifferentialCryptanalysis\DifferentialCryptanalysis\obj\Debug\DifferentialCryptanalysis.csproj.CoreCompileInputs.cache
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\DifferentialCryptanalysis\DifferentialCryptanalysis\bin\Debug\DifferentialCryptanalysis.exe.config
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\DifferentialCryptanalysis\DifferentialCryptanalysis\bin\Debug\DifferentialCryptanalysis.exe
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\DifferentialCryptanalysis\DifferentialCryptanalysis\bin\Debug\DifferentialCryptanalysis.pdb
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\DifferentialCryptanalysis\DifferentialCryptanalysis\obj\Debug\DifferentialCryptanalysis.exe
+D:\Apps\Chapter 21 - Linear and Differential Cryptanalysis\DifferentialCryptanalysis\DifferentialCryptanalysis\obj\Debug\DifferentialCryptanalysis.pdb
