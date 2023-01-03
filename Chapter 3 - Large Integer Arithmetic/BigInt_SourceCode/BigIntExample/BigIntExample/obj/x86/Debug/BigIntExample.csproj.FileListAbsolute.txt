@@ -1,0 +1,11 @@
+E:\VS2010Program\C#4.0Demo\BigInt\BigIntExample\BigIntExample\bin\Debug\BigIntExample.exe
+E:\VS2010Program\C#4.0Demo\BigInt\BigIntExample\BigIntExample\bin\Debug\BigIntExample.pdb
+E:\VS2010Program\C#4.0Demo\BigInt\BigIntExample\BigIntExample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VS2010Program\C#4.0Demo\BigInt\BigIntExample\BigIntExample\obj\x86\Debug\BigIntExample.exe
+E:\VS2010Program\C#4.0Demo\BigInt\BigIntExample\BigIntExample\obj\x86\Debug\BigIntExample.pdb
+D:\Proiecte\BigInt_SourceCode\BigIntExample\BigIntExample\bin\Debug\BigIntExample.exe
+D:\Proiecte\BigInt_SourceCode\BigIntExample\BigIntExample\bin\Debug\BigIntExample.pdb
+D:\Proiecte\BigInt_SourceCode\BigIntExample\BigIntExample\obj\x86\Debug\BigIntExample.csprojAssemblyReference.cache
+D:\Proiecte\BigInt_SourceCode\BigIntExample\BigIntExample\obj\x86\Debug\BigIntExample.csproj.CoreCompileInputs.cache
+D:\Proiecte\BigInt_SourceCode\BigIntExample\BigIntExample\obj\x86\Debug\BigIntExample.exe
+D:\Proiecte\BigInt_SourceCode\BigIntExample\BigIntExample\obj\x86\Debug\BigIntExample.pdb

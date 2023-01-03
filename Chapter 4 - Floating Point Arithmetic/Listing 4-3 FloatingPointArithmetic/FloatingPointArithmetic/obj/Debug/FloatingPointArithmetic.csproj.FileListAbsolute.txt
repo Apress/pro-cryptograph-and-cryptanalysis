@@ -1,0 +1,7 @@
+D:\Proiecte\FloatingPointArithmetic\FloatingPointArithmetic\obj\Debug\FloatingPointArithmetic.csprojAssemblyReference.cache
+D:\Proiecte\FloatingPointArithmetic\FloatingPointArithmetic\obj\Debug\FloatingPointArithmetic.csproj.CoreCompileInputs.cache
+D:\Proiecte\FloatingPointArithmetic\FloatingPointArithmetic\bin\Debug\FloatingPointArithmetic.exe.config
+D:\Proiecte\FloatingPointArithmetic\FloatingPointArithmetic\bin\Debug\FloatingPointArithmetic.exe
+D:\Proiecte\FloatingPointArithmetic\FloatingPointArithmetic\bin\Debug\FloatingPointArithmetic.pdb
+D:\Proiecte\FloatingPointArithmetic\FloatingPointArithmetic\obj\Debug\FloatingPointArithmetic.exe
+D:\Proiecte\FloatingPointArithmetic\FloatingPointArithmetic\obj\Debug\FloatingPointArithmetic.pdb

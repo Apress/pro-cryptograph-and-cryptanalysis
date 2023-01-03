@@ -1,0 +1,7 @@
+D:\Proiecte\CommonFloatNumbers\CommonFloatNumbers\obj\Debug\CommonFloatNumbers.csprojAssemblyReference.cache
+D:\Proiecte\CommonFloatNumbers\CommonFloatNumbers\obj\Debug\CommonFloatNumbers.csproj.CoreCompileInputs.cache
+D:\Proiecte\CommonFloatNumbers\CommonFloatNumbers\bin\Debug\CommonFloatNumbers.exe.config
+D:\Proiecte\CommonFloatNumbers\CommonFloatNumbers\bin\Debug\CommonFloatNumbers.exe
+D:\Proiecte\CommonFloatNumbers\CommonFloatNumbers\bin\Debug\CommonFloatNumbers.pdb
+D:\Proiecte\CommonFloatNumbers\CommonFloatNumbers\obj\Debug\CommonFloatNumbers.exe
+D:\Proiecte\CommonFloatNumbers\CommonFloatNumbers\obj\Debug\CommonFloatNumbers.pdb

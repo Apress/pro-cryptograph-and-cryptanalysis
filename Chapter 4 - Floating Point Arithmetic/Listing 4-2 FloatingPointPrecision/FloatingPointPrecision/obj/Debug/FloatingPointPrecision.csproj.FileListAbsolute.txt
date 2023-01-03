@@ -1,0 +1,7 @@
+D:\Proiecte\FloatingPointPrecision\FloatingPointPrecision\bin\Debug\FloatingPointPrecision.exe.config
+D:\Proiecte\FloatingPointPrecision\FloatingPointPrecision\bin\Debug\FloatingPointPrecision.exe
+D:\Proiecte\FloatingPointPrecision\FloatingPointPrecision\bin\Debug\FloatingPointPrecision.pdb
+D:\Proiecte\FloatingPointPrecision\FloatingPointPrecision\obj\Debug\FloatingPointPrecision.csprojAssemblyReference.cache
+D:\Proiecte\FloatingPointPrecision\FloatingPointPrecision\obj\Debug\FloatingPointPrecision.csproj.CoreCompileInputs.cache
+D:\Proiecte\FloatingPointPrecision\FloatingPointPrecision\obj\Debug\FloatingPointPrecision.exe
+D:\Proiecte\FloatingPointPrecision\FloatingPointPrecision\obj\Debug\FloatingPointPrecision.pdb
