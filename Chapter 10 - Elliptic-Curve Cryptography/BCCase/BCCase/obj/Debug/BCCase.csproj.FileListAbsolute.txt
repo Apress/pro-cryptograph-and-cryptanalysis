@@ -1,0 +1,9 @@
+D:\Proiecte\BCCase\BCCase\obj\Debug\BCCase.csprojAssemblyReference.cache
+D:\Proiecte\BCCase\BCCase\obj\Debug\BCCase.csproj.CoreCompileInputs.cache
+D:\Proiecte\BCCase\BCCase\bin\Debug\BCCase.exe.config
+D:\Proiecte\BCCase\BCCase\bin\Debug\BCCase.exe
+D:\Proiecte\BCCase\BCCase\bin\Debug\BCCase.pdb
+D:\Proiecte\BCCase\BCCase\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proiecte\BCCase\BCCase\obj\Debug\BCCase.csproj.CopyComplete
+D:\Proiecte\BCCase\BCCase\obj\Debug\BCCase.exe
+D:\Proiecte\BCCase\BCCase\obj\Debug\BCCase.pdb

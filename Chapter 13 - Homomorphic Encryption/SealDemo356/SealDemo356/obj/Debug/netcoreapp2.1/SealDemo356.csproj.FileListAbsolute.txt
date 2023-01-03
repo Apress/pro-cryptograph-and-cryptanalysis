@@ -1,0 +1,12 @@
+D:\Apps C#\Chapter 13 - Homomorphic Encryption\SealDemo356\SealDemo356\bin\Debug\netcoreapp2.1\SealDemo356.deps.json
+D:\Apps C#\Chapter 13 - Homomorphic Encryption\SealDemo356\SealDemo356\bin\Debug\netcoreapp2.1\SealDemo356.runtimeconfig.json
+D:\Apps C#\Chapter 13 - Homomorphic Encryption\SealDemo356\SealDemo356\bin\Debug\netcoreapp2.1\SealDemo356.runtimeconfig.dev.json
+D:\Apps C#\Chapter 13 - Homomorphic Encryption\SealDemo356\SealDemo356\bin\Debug\netcoreapp2.1\SealDemo356.dll
+D:\Apps C#\Chapter 13 - Homomorphic Encryption\SealDemo356\SealDemo356\obj\Debug\netcoreapp2.1\SealDemo356.csproj.CoreCompileInputs.cache
+D:\Apps C#\Chapter 13 - Homomorphic Encryption\SealDemo356\SealDemo356\obj\Debug\netcoreapp2.1\SealDemo356.AssemblyInfoInputs.cache
+D:\Apps C#\Chapter 13 - Homomorphic Encryption\SealDemo356\SealDemo356\obj\Debug\netcoreapp2.1\SealDemo356.AssemblyInfo.cs
+D:\Apps C#\Chapter 13 - Homomorphic Encryption\SealDemo356\SealDemo356\bin\Debug\netcoreapp2.1\sealc.dll
+D:\Apps C#\Chapter 13 - Homomorphic Encryption\SealDemo356\SealDemo356\bin\Debug\netcoreapp2.1\SealDemo356.pdb
+D:\Apps C#\Chapter 13 - Homomorphic Encryption\SealDemo356\SealDemo356\obj\Debug\netcoreapp2.1\SealDemo356.csprojAssemblyReference.cache
+D:\Apps C#\Chapter 13 - Homomorphic Encryption\SealDemo356\SealDemo356\obj\Debug\netcoreapp2.1\SealDemo356.dll
+D:\Apps C#\Chapter 13 - Homomorphic Encryption\SealDemo356\SealDemo356\obj\Debug\netcoreapp2.1\SealDemo356.pdb

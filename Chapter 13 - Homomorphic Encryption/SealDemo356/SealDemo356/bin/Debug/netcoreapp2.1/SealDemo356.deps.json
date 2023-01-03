@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "818982da240d04c27387a652021b57417a6eded7"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "SealDemo356/1.0.0": {
+        "dependencies": {
+          "Microsoft.Research.SEALNet": "3.5.6"
+        },
+        "runtime": {
+          "SealDemo356.dll": {}
+        }
+      },
+      "Microsoft.Research.SEALNet/3.5.6": {
+        "runtime": {
+          "lib/netstandard2.0/SEALNet.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SealDemo356/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Research.SEALNet/3.5.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PH3/xUCmoyXxl6zNWCd9+LtpMSG8ATuR6OaUQbqV3yuLvdeQWaSOiX4pHF/dKLXD3PLwuvKuEAEshC6iT92mdg==",
+      "path": "microsoft.research.sealnet/3.5.6",
+      "hashPath": "microsoft.research.sealnet.3.5.6.nupkg.sha512"
+    }
+  }
+}
