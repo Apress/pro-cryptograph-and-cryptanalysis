@@ -1,0 +1,6 @@
+D:\Apps C#\Chapter 24 - Text Characterization\MonogramsCounting\MonogramsCounting\obj\Debug\MonogramsCounting.csproj.CoreCompileInputs.cache
+D:\Apps C#\Chapter 24 - Text Characterization\MonogramsCounting\MonogramsCounting\bin\Debug\MonogramsCounting.exe.config
+D:\Apps C#\Chapter 24 - Text Characterization\MonogramsCounting\MonogramsCounting\bin\Debug\MonogramsCounting.exe
+D:\Apps C#\Chapter 24 - Text Characterization\MonogramsCounting\MonogramsCounting\bin\Debug\MonogramsCounting.pdb
+D:\Apps C#\Chapter 24 - Text Characterization\MonogramsCounting\MonogramsCounting\obj\Debug\MonogramsCounting.exe
+D:\Apps C#\Chapter 24 - Text Characterization\MonogramsCounting\MonogramsCounting\obj\Debug\MonogramsCounting.pdb

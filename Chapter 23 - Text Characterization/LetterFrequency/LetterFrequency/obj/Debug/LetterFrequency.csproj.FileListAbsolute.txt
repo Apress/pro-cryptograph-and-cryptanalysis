@@ -1,0 +1,7 @@
+C:\Users\Stefania\source\repos\LetterFrequency\LetterFrequency\obj\Debug\LetterFrequency.csprojAssemblyReference.cache
+C:\Users\Stefania\source\repos\LetterFrequency\LetterFrequency\obj\Debug\LetterFrequency.csproj.CoreCompileInputs.cache
+C:\Users\Stefania\source\repos\LetterFrequency\LetterFrequency\bin\Debug\LetterFrequency.exe.config
+C:\Users\Stefania\source\repos\LetterFrequency\LetterFrequency\bin\Debug\LetterFrequency.exe
+C:\Users\Stefania\source\repos\LetterFrequency\LetterFrequency\bin\Debug\LetterFrequency.pdb
+C:\Users\Stefania\source\repos\LetterFrequency\LetterFrequency\obj\Debug\LetterFrequency.exe
+C:\Users\Stefania\source\repos\LetterFrequency\LetterFrequency\obj\Debug\LetterFrequency.pdb

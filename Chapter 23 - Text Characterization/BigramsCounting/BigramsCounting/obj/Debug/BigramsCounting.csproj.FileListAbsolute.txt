@@ -1,0 +1,7 @@
+C:\Users\Stefania\source\repos\BigramsCounting\BigramsCounting\bin\Debug\BigramsCounting.exe.config
+C:\Users\Stefania\source\repos\BigramsCounting\BigramsCounting\bin\Debug\BigramsCounting.exe
+C:\Users\Stefania\source\repos\BigramsCounting\BigramsCounting\bin\Debug\BigramsCounting.pdb
+C:\Users\Stefania\source\repos\BigramsCounting\BigramsCounting\obj\Debug\BigramsCounting.csprojAssemblyReference.cache
+C:\Users\Stefania\source\repos\BigramsCounting\BigramsCounting\obj\Debug\BigramsCounting.csproj.CoreCompileInputs.cache
+C:\Users\Stefania\source\repos\BigramsCounting\BigramsCounting\obj\Debug\BigramsCounting.exe
+C:\Users\Stefania\source\repos\BigramsCounting\BigramsCounting\obj\Debug\BigramsCounting.pdb

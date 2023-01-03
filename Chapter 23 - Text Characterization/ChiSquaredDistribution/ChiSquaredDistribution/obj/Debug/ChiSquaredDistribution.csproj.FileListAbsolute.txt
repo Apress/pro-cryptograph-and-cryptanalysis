@@ -1,0 +1,14 @@
+D:\Apps C#\Chapter 24 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\obj\Debug\ChiSquaredDistribution.csprojAssemblyReference.cache
+D:\Apps C#\Chapter 24 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\obj\Debug\ChiSquaredDistribution.csproj.CoreCompileInputs.cache
+D:\Apps C#\Chapter 24 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\bin\Debug\ChiSquaredDistribution.exe.config
+D:\Apps C#\Chapter 24 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\bin\Debug\ChiSquaredDistribution.exe
+D:\Apps C#\Chapter 24 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\bin\Debug\ChiSquaredDistribution.pdb
+D:\Apps C#\Chapter 24 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\obj\Debug\ChiSquaredDistribution.exe
+D:\Apps C#\Chapter 24 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\obj\Debug\ChiSquaredDistribution.pdb
+D:\Apps C#\Chapter 23 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\obj\Debug\ChiSquaredDistribution.csprojAssemblyReference.cache
+D:\Apps C#\Chapter 23 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\obj\Debug\ChiSquaredDistribution.csproj.CoreCompileInputs.cache
+D:\Apps C#\Chapter 23 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\obj\Debug\ChiSquaredDistribution.exe
+D:\Apps C#\Chapter 23 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\obj\Debug\ChiSquaredDistribution.pdb
+D:\Apps C#\Chapter 23 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\bin\Debug\ChiSquaredDistribution.exe.config
+D:\Apps C#\Chapter 23 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\bin\Debug\ChiSquaredDistribution.exe
+D:\Apps C#\Chapter 23 - Text Characterization\ChiSquaredDistribution\ChiSquaredDistribution\bin\Debug\ChiSquaredDistribution.pdb
