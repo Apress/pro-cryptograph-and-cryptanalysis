@@ -1,0 +1,7 @@
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\LWECase1\LWECase1\bin\Debug\LWECase1.exe.config
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\LWECase1\LWECase1\bin\Debug\LWECase1.exe
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\LWECase1\LWECase1\bin\Debug\LWECase1.pdb
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\LWECase1\LWECase1\obj\Debug\LWECase1.csprojAssemblyReference.cache
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\LWECase1\LWECase1\obj\Debug\LWECase1.csproj.CoreCompileInputs.cache
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\LWECase1\LWECase1\obj\Debug\LWECase1.exe
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\LWECase1\LWECase1\obj\Debug\LWECase1.pdb

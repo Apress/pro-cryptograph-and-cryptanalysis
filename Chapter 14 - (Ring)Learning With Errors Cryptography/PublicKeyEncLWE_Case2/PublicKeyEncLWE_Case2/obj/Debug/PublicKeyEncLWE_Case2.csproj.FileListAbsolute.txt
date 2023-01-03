@@ -1,0 +1,7 @@
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\PublicKeyEncLWE_Case2\PublicKeyEncLWE_Case2\obj\Debug\PublicKeyEncLWE_Case2.csprojAssemblyReference.cache
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\PublicKeyEncLWE_Case2\PublicKeyEncLWE_Case2\obj\Debug\PublicKeyEncLWE_Case2.csproj.CoreCompileInputs.cache
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\PublicKeyEncLWE_Case2\PublicKeyEncLWE_Case2\bin\Debug\PublicKeyEncLWE_Case2.exe.config
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\PublicKeyEncLWE_Case2\PublicKeyEncLWE_Case2\bin\Debug\PublicKeyEncLWE_Case2.exe
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\PublicKeyEncLWE_Case2\PublicKeyEncLWE_Case2\bin\Debug\PublicKeyEncLWE_Case2.pdb
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\PublicKeyEncLWE_Case2\PublicKeyEncLWE_Case2\obj\Debug\PublicKeyEncLWE_Case2.exe
+D:\Apps C#\Chapter 15 - (Ring)Learning With Errors Cryptography\PublicKeyEncLWE_Case2\PublicKeyEncLWE_Case2\obj\Debug\PublicKeyEncLWE_Case2.pdb

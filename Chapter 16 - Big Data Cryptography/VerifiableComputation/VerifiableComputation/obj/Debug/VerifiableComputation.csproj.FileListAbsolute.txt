@@ -1,0 +1,7 @@
+D:\Apps C#\Chapter 17 - Big Data Cryptography\VerifiableComputation\VerifiableComputation\bin\Debug\VerifiableComputation.exe.config
+D:\Apps C#\Chapter 17 - Big Data Cryptography\VerifiableComputation\VerifiableComputation\bin\Debug\VerifiableComputation.exe
+D:\Apps C#\Chapter 17 - Big Data Cryptography\VerifiableComputation\VerifiableComputation\bin\Debug\VerifiableComputation.pdb
+D:\Apps C#\Chapter 17 - Big Data Cryptography\VerifiableComputation\VerifiableComputation\obj\Debug\VerifiableComputation.csprojAssemblyReference.cache
+D:\Apps C#\Chapter 17 - Big Data Cryptography\VerifiableComputation\VerifiableComputation\obj\Debug\VerifiableComputation.csproj.CoreCompileInputs.cache
+D:\Apps C#\Chapter 17 - Big Data Cryptography\VerifiableComputation\VerifiableComputation\obj\Debug\VerifiableComputation.exe
+D:\Apps C#\Chapter 17 - Big Data Cryptography\VerifiableComputation\VerifiableComputation\obj\Debug\VerifiableComputation.pdb
